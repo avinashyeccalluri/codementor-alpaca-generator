@@ -1,0 +1,29 @@
+#left {
+    position: relative;
+}
+
+#left .background {
+    border-radius: 50px;
+}
+
+#left img {
+    height: 500px;
+}
+
+
+#left .alpaca-images{
+    position: absolute;
+    justify-content: center;
+}
+
+@media only screen 
+and (max-width : 767px) {
+
+    #left{
+    }
+    
+    #left img {
+        height: 250px !important;
+        width: 250px;
+    }
+}

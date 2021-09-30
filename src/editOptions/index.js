@@ -1,0 +1,37 @@
+const options = {
+  hair: ["Bang", "Curls", "Default", "Elegant", "Fancy", "Short"],
+  ears: ["Default", "TiltBackward", "TiltForward"],
+  eyes: ["Angry", "Default", "Naughty", "Panda", "Smart", "Star"],
+  mouth: ["Astonished", "Default", "Eating", "Laugh", "Tongue"],
+  neck: ["BendBackward", "BendForward", "Default", "Thick"],
+  leg: [
+    "BubbleTea",
+    "Cookie",
+    "Default",
+    "GameConsole",
+    "TiltBackward",
+    "TiltForward",
+  ],
+  accessory: ["Earings", "Flower", "Glasses", "headphone"],
+  background: [
+    "Blue50",
+    "Blue60",
+    "Blue70",
+    "Darkblue30",
+    "Darkblue50",
+    "Darkblue70",
+    "Green50",
+    "Green60",
+    "Grey40",
+    "Grey70",
+    "Grey80",
+    "Red50",
+    "Red60",
+    "Red70",
+    "Yellow50",
+    "Yellow60",
+    "Yellow70",
+  ],
+};
+
+export default options;
